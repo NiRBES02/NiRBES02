@@ -8,3 +8,6 @@ My arsenal includes 12 programming languages, among which are:
 
 Check out my repositories to see what I'm currently working on, and don't hesitate to contact me if you have an interesting idea!
 
+### Contact with me
+- <img src="https://www.vectorlogo.zone/logos/discord/discord-tile.svg" alt="discord" width="14" height="14" /> dev_nirbes
+- <img src="https://www.vectorlogo.zone/logos/telegram/telegram-tile.svg" alt="discord" width="14" height="14" /> dev_nirbes
